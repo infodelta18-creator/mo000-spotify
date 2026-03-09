@@ -13,19 +13,19 @@ import Head from "next/head";
 
 const Explore = () => {
   const playlists = [
-    { name: "Dance Tracks", playlist: danceTracks },
-    { name: "Electronic Tracks", playlist: electronicTracks },
-    { name: "Hip Pop Tracks", playlist: hipPopTracks },
-    { name: "House Tracks", playlist: houseTracks },
-    { name: "Top Tracks", playlist: musicTracksData },
-    { name: "Pop Tracks", playlist: popTracks },
-    { name: "Rock Tracks", playlist: rockTracks },
+    { name: "Tavsiya etiladi", playlist: danceTracks },
+    { name: "Electronic musiqalar", playlist: electronicTracks },
+    { name: "Hip Pop music", playlist: hipPopTracks },
+    { name: "Yoqtirgan musiqalarimiz", playlist: houseTracks },
+    { name: "Topic music", playlist: musicTracksData },
+    { name: "Pop musiqalar", playlist: popTracks },
+    { name: "Rock musiqalar", playlist: rockTracks },
   ];
 
   return (
     <>
       <Head>
-        <title>Topify - Explore </title>
+        <title>Netlivy - Explore </title>
         <meta
           name="description"
           content="Spotify Clone built with NEXTJS and Typescript"
@@ -36,7 +36,7 @@ const Explore = () => {
       <section className="sm:ml-24 p-2 w-full sm:w-[calc(100vw-120px)] mb-24">
         <div className="flex flex-col sm:w-[calc(100vw-120px)]">
           <h1 className="text-xl text-green-500 font-bold mx-auto w-full bg-black z-10 top-0 p-2 fixed">
-            Explore Tracks
+            Recommended for you 
           </h1>
           <div className="mt-10" />
 
