@@ -30,7 +30,7 @@ const Explore = () => {
           name="description"
           content="Spotify Clone built with NEXTJS and Typescript"
         />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/info.jpg" />
       </Head>
 
       <section className="sm:ml-24 p-2 w-full sm:w-[calc(100vw-120px)] mb-24">
