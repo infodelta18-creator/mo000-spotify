@@ -326,6 +326,88 @@
     "highlightsurls": {},
     "properties": {}
   },
+{
+      "layout": "5",
+      "type": "MUSIC",
+      "key": "617981262",
+      "title": "Necesar",
+      "subtitle": "Mario Fresh & Renvtø",
+      "share": {
+        "subject": "Necesar - Mario Fresh & Renvtø",
+        "text": "I used Shazam to discover Necesar by Mario Fresh & Renvtø.",
+        "href": "https://www.shazam.com/track/617981262/necesar",
+        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/28/0e/2c/280e2cfd-ce8b-3435-9bb4-379dbbde58e5/cover.jpg/400x400cc.jpg",
+        "twitter": "I used @Shazam to discover Necesar by Mario Fresh & Renvtø.",
+        "html": "https://www.shazam.com/snippets/email-share/617981262?lang=en&country=GB",
+        "snapchat": "https://www.shazam.com/partner/sc/track/617981262"
+      },
+      "images": {
+        "background": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/28/0e/2c/280e2cfd-ce8b-3435-9bb4-379dbbde58e5/cover.jpg/400x400cc.jpg",
+        "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/28/0e/2c/280e2cfd-ce8b-3435-9bb4-379dbbde58e5/cover.jpg/400x400cc.jpg",
+        "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/28/0e/2c/280e2cfd-ce8b-3435-9bb4-379dbbde58e5/cover.jpg/400x400cc.jpg",
+        "joecolor": "b:171723p:ebe5eas:cdcdcdt:c0bcc2q:a8a8ab"
+      },
+      "hub": {
+        "type": "APPLEMUSIC",
+        "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+        "actions": [
+          {
+            "name": "apple",
+            "type": "applemusicplay",
+            "id": "1627365261"
+          },
+          {
+            "name": "apple",
+            "type": "uri",
+            "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/44/26/f8/4426f8d2-f4c6-2fef-1fba-0ea7892d5453/mzaf_2689247463427380711.plus.aac.ep.m4a"
+          }
+        ],
+        "options": [
+          {
+            "caption": "OPEN",
+            "actions": [
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "applemusicopen",
+                "uri": "https://music.apple.com/gb/album/necesar/1627365123?i=1627365261&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+              },
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "uri",
+                "uri": "https://music.apple.com/gb/album/necesar/1627365123?i=1627365261&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+              }
+            ],
+            "beacondata": {
+              "type": "open",
+              "providername": "applemusic"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+            "type": "open",
+            "listcaption": "Open in Apple Music",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+            "colouroverflowimage": false,
+            "providername": "applemusic"
+          }
+        ],
+        "explicit": false,
+        "displayname": "APPLE MUSIC"
+      },
+      "artists": [
+        {
+          "alias": "mario-fresh",
+          "id": "42",
+          "adamid": "1259171946"
+        },
+        {
+          "alias": "renvt%C3%B8",
+          "id": "42",
+          "adamid": "1502104470"
+        }
+      ],
+      "url": "https://www.shazam.com/track/617981262/necesar",
+      "highlightsurls": {},
+      "properties": {}
+    },
   {
     "layout": "5",
     "type": "MUSIC",
