@@ -19,7 +19,7 @@ const Playlist = () => {
 
           {likedTracks.length > 0 ? (
             <div>
-              <h1 className="text-xl text-green-500 font-bold mx-auto w-full bg-black z-10 top-0 p-2 fixed">Yoqtirilgan musiqalar🔥🎶</h1>
+              <h1 className="text-xl text-green-500 font-bold mx-auto w-full bg-black z-10 top-0 p-2 fixed">Savimli musiqalar</h1>
 
               <div className="mt-10 overflow-y-scroll scrollbarThin ">
                 <div className="flex flex-col gap-3 p-1 h-[78vh] min-w-max border-2 border-[#262626] rounded-2xl overflow-y-scroll scrollbarThin">
@@ -32,7 +32,7 @@ const Playlist = () => {
             </div>
           ): (
             <div className="flex items-center justify-center">
-              <h1 className="text-white">Hozircha musiqalarni yoqtirmadingiz🎶</h1>
+              <h1 className="text-white">Hozircha musiqalarni yoqtirmadingiz</h1>
             </div>
           )}
 
