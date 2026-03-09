@@ -10,7 +10,7 @@ export default function History() {
   return (
     <>
       <Head>
-        <title>Topify - History </title>
+        <title>Netlivy - History </title>
         <meta
           name="description"
           content="Spotify Clone built with NEXTJS and Typescript"
@@ -20,7 +20,7 @@ export default function History() {
 
       {recentlyPlayed.length > 0 ? (
         <div className="m-2 sm:ml-28 w-full h-screen">
-          <h1 className="text-white mb-3">Recently Played Tracks</h1>
+          <h1 className="text-white mb-3">Siz tinglagan ritmlar 🔥</h1>
           <div>
 
             <div className="border-2 border-[#262626] rounded-2xl overflow-y-scroll w-full h-full max-h-[78vh] scrollbarThin">
@@ -39,7 +39,7 @@ export default function History() {
         </div>
       ) : (
         <div className="sm:ml-28 flex justify-center items-center w-screen sm:w-[calc(100vw-80px)]">
-          <h1 className="text-center text-white">No Songs Played </h1>
+          <h1 className="text-center text-white">Hozircha musiqa tinglamadingiz </h1>
         </div>
       )}
     </>
