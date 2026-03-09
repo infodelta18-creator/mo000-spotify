@@ -329,6 +329,83 @@
 {
       "layout": "5",
       "type": "MUSIC",
+      "key": "633339639",
+      "title": "Lola Gulim",
+      "subtitle": "Remzi",
+      "share": {
+        "subject": "Lola Gulim - Remzi",
+        "text": "I used Shazam to discover Lola Gulim by Remzi.",
+        "href": "https://www.shazam.com/track/633339639/lola-gulim",
+        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/8a/42/2b/8a422b03-a9b8-b19c-2d9d-5a67689a63b6/cover.jpg/400x400cc.jpg",
+        "twitter": "I used @Shazam to discover Lola Gulim by Remzi.",
+        "html": "https://www.shazam.com/snippets/email-share/633339639?lang=en&country=GB",
+        "snapchat": "https://www.shazam.com/partner/sc/track/633339639"
+      },
+      "images": {
+        "background": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/8a/42/2b/8a422b03-a9b8-b19c-2d9d-5a67689a63b6/cover.jpg/400x400cc.jpg",
+        "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/8a/42/2b/8a422b03-a9b8-b19c-2d9d-5a67689a63b6/cover.jpg/400x400cc.jpg",
+        "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/8a/42/2b/8a422b03-a9b8-b19c-2d9d-5a67689a63b6/cover.jpg/400x400cc.jpg",
+        "joecolor": "b:131313p:f9e4c0s:adcfb2t:cbba9dq:8ea992"
+      },
+      "hub": {
+        "type": "APPLEMUSIC",
+        "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+        "actions": [
+          {
+            "name": "apple",
+            "type": "applemusicplay",
+            "id": "1648047613"
+          },
+          {
+            "name": "apple",
+            "type": "uri",
+            "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/ea/ce/c0/eacec039-0f3d-d800-6309-a578d6c92fe3/mzaf_5525525584753691623.plus.aac.ep.m4a"
+          }
+        ],
+        "options": [
+          {
+            "caption": "OPEN",
+            "actions": [
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "applemusicopen",
+                "uri": "https://music.apple.com/gb/album/lola-gulim/1648047612?i=1648047613&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+              },
+              {
+                "name": "hub:applemusic:deeplink",
+                "type": "uri",
+                "uri": "https://music.apple.com/gb/album/lola-gulim/1648047612?i=1648047613&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+              }
+            ],
+            "beacondata": {
+              "type": "open",
+              "providername": "applemusic"
+            },
+            "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+            "type": "open",
+            "listcaption": "Open in Apple Music",
+            "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+            "colouroverflowimage": false,
+            "providername": "applemusic"
+          }
+        ],
+        "explicit": false,
+        "displayname": "APPLE MUSIC"
+      },
+      "artists": [
+        {
+          "alias": "remzi",
+          "id": "42",
+          "adamid": "873375691"
+        }
+      ],
+      "url": "https://www.shazam.com/track/633339639/lola-gulim",
+      "highlightsurls": {},
+      "properties": {}
+    },
+{
+      "layout": "5",
+      "type": "MUSIC",
       "key": "617981262",
       "title": "Necesar",
       "subtitle": "Mario Fresh & Renvtø",
