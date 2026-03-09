@@ -10,7 +10,7 @@ export default function Home() {
           name="description"
           content="Spotify Clone built with NEXTJS and TypeScript"
         />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/info.jpg" />
       </Head>
       <Dashboard />
     </>
